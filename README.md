@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Tcl programming: the improper handling of errors thrown by a procedure. The `bug.tcl` file showcases code that throws an error but doesn't gracefully handle it. The solution, found in `bugSolution.tcl`, shows a better way to manage the error using `catch`.
